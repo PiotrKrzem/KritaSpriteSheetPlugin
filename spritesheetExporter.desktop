@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=spritesheetExporter
+X-Python-2-Compatible=false
+Name=Spritesheet Exporter
+Comment=Exports layers and generates spritesheets
